@@ -7,17 +7,17 @@ The following protocol is part of an overall longevity protocol which contains a
 
 This chapter outlines the functional track aka "tea protocol", which provides a method reduce blood pressure.  To maximize results, it is important to use the correct **botanical parts** of the plant. Studies are very specific about this because the active compounds (like anthocyanins or oleuropein) are concentrated in particular areas.
 
-## 7-Day Heart-Healthy Tea Rotation
+## Heart-Healthy Three-Tea Rotation
 
-This schedule focuses on the **Hibiscus Triple Dose** while rotating secondary teas to avoid caffeine fatigue and maximize different vascular pathways.
+This schedule focuses on the **Hibiscus Dose** while rotating secondary teas to avoid caffeine fatigue and maximize different vascular pathways consuming three cups of tea per day.
 
 | Day | Morning (BP Kickstart) | Mid-Day (Vascular Support) | Evening (Relaxation) |
 | --- | --- | --- | --- |
 | **Mon** | **Hibiscus** (Hot) | **Olive Leaf** (Flash-Chill) | **Hibiscus** (Cold Brew) |
-| **Tue** | **Hibiscus** (Hot) | **Matcha** (Cold Brew)  | **Hibiscus** (Cold Brew) |
+| **Tue** | **Hibiscus** (Hot) | **Soy-Matcha** (Cold Brew) | **Hibiscus** (Cold Brew) |
 | **Wed** | **Hibiscus** (Hot) | **Olive Leaf** (Flash-Chill) | **Hibiscus/Chamomile** (Hot) |
 | **Thu** | **Hibiscus** (Hot) | **Hawthorn** (Flash-Chill) | **Hibiscus** (Cold Brew) |
-| **Fri** | **Hibiscus** (Hot) | **Matcha** (Cold Brew) | **Hibiscus** (Cold Brew) |
+| **Fri** | **Hibiscus** (Hot) | **Soy-Matcha** (Cold Brew) | **Hibiscus** (Cold Brew) |
 | **Sat** | **Hibiscus** (Hot) | **Hawthorn** (Flash-Chill) | **Hibiscus** (Cold Brew) |
 | **Sun** | **Heart Trio Blend** (Hot) | **Heart Trio Blend** (Hot/Flash-Chill) | **Heart Trio Blend Blend** (Hot/Flash-Chill) |
 
@@ -29,6 +29,7 @@ This schedule focuses on the **Hibiscus Triple Dose** while rotating secondary t
 
 * **Why:** These are leathery leaves, cold water simply isn't "aggressive" enough to pull out the **Oleuropein** or **Crataegus flavonoids**.
 * **Method:** For 8 oz, steep 2.5g to 3.0g, steep in **185F** water for **20 minutes**.
+* **Optional:** Add 1/4 - 1/2 teaspoon Turmeric per 8 oz while steeping. If selecting this option, start slow  and mix/shake well before storing and just before consuming.
 * **To Drink Cold:** Once the 20-minute steep is done, pour the "concentrate" over a large glass of ice.
 * **To Store**: Let cool to room temp, add stabilizing citrus, seal in dark jar for up to 5 days
 
@@ -36,6 +37,7 @@ This schedule focuses on the **Hibiscus Triple Dose** while rotating secondary t
 
 * **Why:** These are leathery leaves, cold water simply isn't "aggressive" enough to pull out the **Oleuropein** or **Crataegus flavonoids**.
 * **Method:** For 8 oz, steep 2.5g to 3.0g, steep in **176F** water for **30 minutes**, covered (This may need to have an external heater to keep temp)
+* **Optional:** Add 1/4 - 1/2 teaspoon Turmeric per 8 oz while steeping. If selecting this option, start slow  and mix/shake well before storing and just before consuming.
 * **To Drink Cold:** Once the 30-minute steep is done, pour the "concentrate" over a large glass of ice.
 * **To Store**: Let cool to room temp, add stablizing citrus, seal in dark jar for up to 5 days
 * **The Bitterness Factor:** Because 30 minutes is an incredibly long steep, the tea will be very astringent. If it's too bitter to drink, you can dilute the resulting concentrate with a bit of room-temperature water.
@@ -64,15 +66,17 @@ When cold brewing, you generally want to increase the tea-to-water ratio slightl
 * **Method:**
   * **Hibiscus:**
     * Steep in the fridge for **12 hours** (overnight).
-    * **Ratio:** Use **1.25g to 1.5g** of dried hibiscus per 8 oz (3 tea bags per 16 oz). Use 1.5x the amount of dried flowers you would use for hot tea to ensure the same potency. 
+    * **Ratio:** Use **1.25g to 1.5g** of dried hibiscus per 8 oz (3 tea bags per 16 oz). Use 1.5x the amount of dried flowers you would use for hot tea to ensure the same potency.
     * Add acidic stabilizer after removing tea leaves keep beneficial for up to 48 hours in a dark/covered jar
       * Fill entire jar to reduce oxidation
       * Remove tea bags/leaves after steeping time to avoid bitterness and spoilage
   * **Soy-Matcha Green Tea:** Steep in the fridge for **6–8 hours**
     * Use a jar that has a good sealing lid matcha can be shaken (vs cold whisked). Alternatively use frother to mix (makes mess)
-    * Standard Strength: 1 teaspoon (approx. 2g), Strong/Ceremonial: 1.5 to 2 teaspoons (3–4g) per 8 oz
+    * Standard Strength: 1 teaspoon (approx. 2g), Strong/Ceremonial: 1.5 to 2 teaspoons per 8 oz
     * Use Soy Milk, without additives, for best outcome. Cow milk can also be used. Avoid Almond milk.
-    * Using milk removes the need for acid stabilizer, removes the risk of oxalates build up in kidneys
+    * Using milk removes the need for acid stabilizer, removes the risk of oxalates build up in kidneys.
+    * Use decaffeinated matcha, if caffeine sensitive (I do a half-caff 1/2 teaspoon regular + 1/2 teaspoon decaf)
+    * **Optional:** Add 1/4 - 1/2 teaspoon Turmeric per 8 oz while cold steeping. If selecting this option, start slow and mix/shake well before storing and just before consuming.
 
 ### 3. The Morning Hybrid (Hibiscus Hot)
 
@@ -110,7 +114,7 @@ Citrus also allows batch prep the **7-Day Heart-Healthy Rotation**, the best app
 | --- | --- | --- |
 | **Below 158F** | **Minimal Loss** | Safe zone. Perfect for adding citrus to your cold brews or slightly cooled green tea. |
 | **159F to 185F** | **Moderate Loss** | Significant degradation begins after 5–10 minutes. This is why we wait for "Hot Prep" to cool slightly. |
-| **186F to 212F** | **Rapid Loss** | Boiling water can destroy up to **25-50%** of the Vitamin C in citrus juice almost
+| **186F to 212F** | **Rapid Loss** | Boiling water can destroy up to **25-50%** of the Vitamin C in citrus juice |
 
 ## Weekly Batch Schedule
 
@@ -150,50 +154,6 @@ To keep your **7-Day Heart-Healthy Rotation** efficient and ensure you’re gett
 3. **The Glass-Only Rule:** Since we are using a **Clinical Protocol**, avoid plastic containers. Plastic can leach chemicals over a 3-day storage period, especially if you pour the tea in while it's still warm.
 4. **Label Your Lids:** Use a dry-erase marker on your jar lids to write the **date of prep**.
 
-## Checklist for Buying
-
-### The Botanical specifics
-
-* **Hibiscus:** You must use the **calyces** (the fleshy red part that holds the flower) of the **Hibiscus sabdariffa** species. Most Hibiscus tea sold in stores uses this, but avoid ornamental hibiscus from your garden.
-* **Green Tea:** Most research uses **Sencha** (leaf) or **Matcha** (powdered leaf). Matcha is significantly more potent as you consume the entire leaf.
-* **Olive Leaf:** Look for **dried, whole, or crushed leaves** (Olea europaea). The oleuropein content is what matters; avoid olive fruit teas which lack this compound.
-* **Hawthorn:** Studies suggest a **combination of leaf and flower** (Crataegi folium cum flore) is often more effective than just the berries, as the leaves/flowers contain higher concentrations of flavonoids.
-
-In clinical research, scientists often use specific standardized extracts or reputable commercial brands to ensure that the levels of active compounds are consistent. The following brands and specific standardized extracts have been directly used or identified in major clinical trials for blood pressure
-
-#### 1. Hibiscus (*Hibiscus sabdariffa*)
-
-* **Celestial Seasonings:** This is perhaps the most famous commercial connection. The landmark **Tufts University study** (McKay et al., 2010) collaborated with Celestial Seasonings. While the study used a standardized blend, their Re Zinger line is primarily hibiscus-based and mirrors the profile used in the trial.
-* **Badia:** Used in a 2019 randomized clinical trial (published in *Journal of Advanced Pharmaceutical Technology & Research*) where 2 cups daily showed significant reduction in Stage 1 hypertension.
-* **Traditional Medicinals:** Often cited by herbalists as a pharmacopoeial grade alternative, as they test for specific active constituent levels, which mimics the standardized tea protocols used in hospital-based trials.
-
-#### 2. Green Tea (*Camellia sinensis*)
-
-* **Ito En (Oi Ocha):** Frequently used in Japanese clinical studies. It is known for its high catechin content and consistency.
-* **Taiyo Kagaku (Sunphenon):** Many trials don't use a bagged tea but rather a standardized extract called **Sunphenon**. If you are looking for tea that matches this, look for brands that specify high-catechin or standardized EGCG on the label.
-
-#### 3. Olive Leaf (*Olea europaea*)
-
-* **Benolea (EFLA 943):** This is the gold standard in olive leaf research. It is a patented extract used in the most famous Olive Leaf vs. Captopril study. It is standardized to **16–24% Oleuropein**.
-* **Where to find it:** While Benolea is an ingredient, brands like **Life Extension** or **Frutarom** use this specific clinical extract in their formulations.
-* **Maiservas (+ervas):** A Portuguese biological products company whose dried olive leaves were used in 2022/2023 cross-over trials for metabolic and vascular health.
-
-#### 4. Hawthorn (*Crataegus*)
-
-* **Dr. Willmar Schwabe (Crataegus Extract WS 1442):** This specific standardized extract from leaves and flowers is the most extensively researched Hawthorn product in the world.
-* **Note:** It is typically sold as a supplement, brand name **Special Extract WS 1442**, rather than a loose tea, because the specific flavonoid concentration is difficult to maintain in home-brewed tea.
-
-### Purchase Summary
-
-If you can't find the exact clinical brand, look for these Clinical Grade markers on the packaging to ensure you are getting the dosage used in the studies:
-
-| Tea Type | What to Look for on the Label |
-| --- | --- |
-| **Hibiscus** | Must be Hibiscus sabdariffa; look for deep red color indicates high anthocyanins. |
-| **Green Tea** | Standardized to 45% EGCG or Japanese Sencha. |
-| **Olive Leaf** | Standardized to 18% Oleuropein or EFLA 943 extract. |
-| **Hawthorn** | Leaf and Flower blend, avoid Berry-only for BP. |
-
 ## Timeline to Effectiveness
 
 Research indicates that these teas are not instant like a pill; they work by gradually improving the health of your blood vessel linings.
@@ -201,3 +161,33 @@ Research indicates that these teas are not instant like a pill; they work by gra
 * **7 to 14 Days:** Initial soft drop. You might see a **2–4 point** reduction in systolic pressure as the diuretic effects of Hibiscus kick in.
 * **4 to 6 Weeks:** This is the Clinical Sweet Spot. This is when most studies, particularly on **Hibiscus Sabdariffa**. show a significant **7–13 point** drop in systolic pressure.
 * **8 to 12 Weeks:** Maximum benefit for **Green Tea** and **Olive Leaf**. By this point, your blood vessels have typically become more flexible improved flow-mediated dilation.
+
+## Maintenance Schedule (12 Weeks Off)
+
+ During this off period, we drop the morning and evening Hibiscus bookends, leaving only the **Mid-Day Clinical Dose**. After the off period, it is recommended to restart the intensive Three-Tea Rotation, again for 12 weeks.
+
+| Day | Maintenance Tea (Mid-Day Only) | Strategic Goal |
+| --- | --- | --- |
+| **Mon / Thu** | **Matcha (Soy Milk Cold Brew)** | Metabolic focus & EGCG "top-up." |
+| **Tue / Fri** | **Hibiscus (Hot or Cold)** | Consistent vascular relaxation. |
+| **Wed / Sat** | **Olive or Hawthorn Leaf** | Rotating the "Shield" and the "Engine." |
+| **Sunday** | **The "Heart Trio" Blend** | **The Weekly Reset:** Broad-spectrum synergy. |
+
+### **Key Maintenance Shifts**
+
+#### **Structural Continuity**
+
+Even in maintenance, the **Sacrificial Calcium** rule still applies.
+
+* On **Mon/Thu**, your soy milk handles the buffer.
+* On **Other Days**, you should still have a small bite of **Aged Gouda** or another calcium source with your tea to protect your kidneys from the long-term cumulative effects of oxalates.
+
+#### **Hibiscus Priority**
+
+During the intensive 12-week phase, you were drinking at least Hibiscus twice daily. In maintenance, you only drink it twice a week (Tue/Fri).
+
+* **If you notice your blood pressure drifting up:** Simply swap the Wed/Sat tea for Hibiscus as well. Hibiscus is the most "active" blood pressure tool in your kit.
+
+#### **Why this works better for longevity**
+
+This rotation prevents "molecular fatigue." By giving your receptors a break from specific compounds (like Oleuropein in Olive Leaf) for several days at a time, they remain highly sensitive to the tea when you *do* drink it. This makes the "Maintenance" phase almost as effective as the "Loading" phase over a long enough timeline.

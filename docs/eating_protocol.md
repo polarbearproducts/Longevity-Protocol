@@ -128,7 +128,7 @@ Don't go here
     * Red cabbage
     * Blueberries
     * Blackberries
-    * Black raspberries
+    * Black & red raspberries
 * Leafy greens
     * Spinach
     * Swiss chard
@@ -167,10 +167,11 @@ Don't go here
 ## By the numbers
 
 * Daily Average Macro: 37% Fat, 43% Carbs, 20% Protein
-* Shoot for 140-160 g protein per day while strength training (1.4-1.6 gram protein for each KG of body weight)
+* Shoot for 140-160 g protein per day (Tailor this to be 1.4-1.6 gram protein for each KG of body weight)
     * No more than 30 g per day should come from protein powder
     * Strive to contain 700–3000 mg of leucine
-    * A high-protein meal is one that is rich in protein, typically providing at least 30 grams of protein per serving,  
+    * A high-protein meal is one that is rich in protein, typically providing at least 30 grams of protein per serving
+    * These values should be good for light/moderate strength trainers as well as those over 50 years old  
 * No more than 9 teaspoons (36 grams or 150 calories) of added sugar per day
     * Does not include sugars naturally found in whole fruits
     * 1 tsp honey = 5 g / 15 c
@@ -200,17 +201,16 @@ These are not recommended unless medical testing show a deficiency.
 * Iodine supplement (325 mcg)
 * Iron supplement
 
-### For Benefit
+### For (Potential) Benefit
 
 * At least 15 ml/3 tsp of vinegar per day
-    * Some recommendations include 1 tablespoon before each meal
+    * Some recommendations include 1 tablespoon before each meal (I used it in salad dressing)
     * Or alternatively 1 Tablespoon of Apple Cider Vinegar within 20 minutes of a meal or high-carb meal
     * If drinking diluted or straight vinegar, rinse with water to avoid tooth damage
 * Creatine
     * Promotes strong muscles
     * 5 G (1 scoop) per day
     * No loading protocol
-* B12 supplement (2000 mcg)
 * D supplement (5000 IU)
 * Vitamin K2, (MK4 1000 mcg, MK7 180 mcg from MenaQ7®)
 * Aged Garlic Extract (1000 mg)
