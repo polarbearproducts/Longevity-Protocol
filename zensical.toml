@@ -11,13 +11,13 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Health-Protocol"
+site_name = "Longevity-Protocol"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "A research hobby on longevity."
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -27,7 +27,7 @@ site_author = "PolarbearProducts"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://polarbearproducts.github.io/Health-Protocol/"
+site_url = "https://polarbearproducts.github.io/Longevity-Protocol/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -55,6 +55,7 @@ nav = [
     "recipes/dinner.md",
     "recipes/creatine.md"
     ]},
+   { "Buying Guide" = "buying_guide.md" }, 
    { "Exercise Protocol" = "exercise_protocol.md" },
    { "Appendix" = "ref.md" },
 ]
