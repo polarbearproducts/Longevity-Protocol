@@ -45,6 +45,56 @@ If you can't find the exact clinical brand, look for these Clinical Grade marker
 | **Olive Leaf** | Standardized to 18% Oleuropein or EFLA 943 extract. |
 | **Hawthorn** | Leaf and Flower blend, avoid Berry-only for BP. |
 
+## Shopping List
+
+In clinical research, Clinical Grade refers to supplements that have been independently verified for purity, such as USP or NSF certification or are the exact patented versions used in successful human trials. Below are the specific brands and formulations most frequently cited in studies for arterial health and plaque management.
+
+### 1. Aged Garlic Extract (AGE)
+
+**Clinical Standard:** **Kyolic by Wakunaga of America**
+This is the single most researched garlic brand in the world. It was used in the famous UCLA heart studies (Dr. Matthew Budoff) and the GarGIC trials.
+
+* **The Formulation:** **Kyolic Formula 100 Cardiovascular** or **Kyolic Reserve**.
+* **Clinical Dose:** Trials for plaque reversal typically use **1,200 mg to 2,400 mg** per day.
+* **Key Marker:** Standardized to **S-allyl cysteine SAC**. Studies show that 2.4 mg of SAC daily is the threshold for slowing coronary calcification.
+
+### 2. Vitamin K2 (MK-7)
+
+**Clinical Standard: MenaQ7®, a Patented Ingredient**
+Researchers rarely use generic K2. Most successful trials on arterial stiffness use **MenaQ7®**, a patented form of MK-7 derived from fermented chickpeas.
+
+* **Where to find it:** Because MenaQ7 is an ingredient, you will find it inside high-end brands.
+* **SwissRX:** Specifically uses the MenaQ7 PRO version used in cardiovascular research.
+* **Thorne Vitamin D/K2 Liquid:** Highly regarded for its purity and used by professional athletic organizations.
+* **Clinical Dose:** 180 mcg per day. (Note: New 2026 guidelines suggest up to 360 mcg/day is safe and effective for arterial health).
+
+### 3. Vitamin D3
+
+**Clinical Standard:** **Nature Made (USP Verified)** or **Pure Encapsulations**
+For D3, the gold standard is **USP Verification** (U.S. Pharmacopeia), which ensures the bottle actually contains the IU amount listed.
+
+* **Nature Made:** Holds the most USP-verified products in the US.
+* **Pure Encapsulations:** Frequently used in clinical settings because they are "hypoallergenic" and free from fillers that might interfere with absorption.
+* **Clinical Dose:**  (to be adjusted based on your blood serum levels).
+
+### 4. Pomegranate Extract
+
+**Clinical Standard:** **P40p™** or **POM Wonderful**
+Research into carotid artery thickening specifically used **POM Wonderful** juice or the standardized extract **P40p**.
+
+* **The Formulation:** Look for extracts standardized to **30% Punicalagins**.
+* **Standardized Brand:** **Life Extension (Pomegranate Fruit Extract)** uses a standardized blend that mirrors the polyphenol profile used in clinical trials.
+* **Clinical Dose:** Equivalent to **8oz of juice** or **400mg–1,000mg** of standardized extract.
+
+### Summary Table for Clinical Grade Shopping
+
+| Nutrient | Specific Clinical Brand/Ingredient | Key Certification to Look For |
+| --- | --- | --- |
+| **Aged Garlic** | **Kyolic (Formula 100)** | "Aged 20 Months" |
+| **Vitamin K2** | **MenaQ7®** (found in SwissRX or Jarrow) | "Patented MK-7" |
+| **Vitamin D3** | **Nature Made** or **Thorne** | **USP Verified** or **NSF** |
+| **Pomegranate** | **Life Extension** or **POM Wonderful** | "Standardized Punicalagins" |
+
 ## Turmeric
 
 While fresh turmeric is often perceived as "healthier," current research (2025–2026) suggests that for a longevity protocol, **high-quality dried powder actually has several physiological advantages**, particularly regarding curcumin concentration and stability.

@@ -135,7 +135,7 @@ This meal is designed for maximum glycemic stability, diverse phytonutrient inta
 * **Quercetin & Lycopene:** The EVOO used for grilling and stewing is essential for the absorption of these fat-soluble antioxidants found in the red onions and tomatoes.
 * **Vascular:** Lycopene (tomatoes) + Nitrates (lettuce) + Quercetin (onions) = excellent endothelial support.
 * **Gut Health:** Diverse fiber sources (beans, sprouted grains, cabbage) promote a varied microbiome.
-**Satiety:** The fat and fiber content will likely keep you full much longer than the berry bowls.
+* **Satiety:** The fat and fiber content will likely keep you full much longer than the berry bowls.
 
 ### Contradictions & Considerations
 

@@ -1,8 +1,5 @@
 # Functional Cardiovascular Benefits
 
-!!! Note
-    The majority of the following advice was AI generated, while this has been partially validated, some inaccuracies may still exist.
-
 The following protocol is part of an overall longevity protocol which contains a dual-track focus: Functional (how the system performs in the moment) and Structural (how the system resists aging over decades).
 
 This chapter outlines the functional track aka "tea protocol", which provides a method reduce blood pressure over a 24-week program (12-weeks-on; 12-weeks-off).  
@@ -193,3 +190,6 @@ During the intensive 12-week phase, you were drinking at least Hibiscus twice da
 #### **Why this works better for longevity**
 
 This rotation prevents "molecular fatigue." By giving your receptors a break from specific compounds (like Oleuropein in Olive Leaf) for several days at a time, they remain highly sensitive to the tea when you *do* drink it. This makes the "Maintenance" phase almost as effective as the "Loading" phase over a long enough timeline.
+
+!!! Note
+    The majority of the above advice was AI generated, while this has been largely validated, some inaccuracies may still exist.
