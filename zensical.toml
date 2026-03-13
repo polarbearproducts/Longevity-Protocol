@@ -49,7 +49,7 @@ nav = [
    { "Food Protocol" = "eating_protocol.md" },
    { "Functional Cardio Benefits" = "tea_v2.md" },
    { "Structural Cardio Reversal" = "structural.md" },
-   { "Supplements" = suppl.md},
+   { "Supplements" = "suppl.md"},
    { "Sample Recipes" = [
     "recipes/breakfast.md",
     "recipes/lunch.md",
