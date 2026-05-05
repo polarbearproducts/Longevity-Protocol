@@ -91,6 +91,8 @@ Don't go here
 ## Limit
 
 * Sweets
+    * Foods that have added sugars by any name, artificial or zero calorie sweeteners
+    * See hidden sugars listing from CDC <https://www.cdc.gov/diabetes/healthy-eating/spotting-hidden-sugars-in-everyday-foods.html>
     * One exception is high content coco powder 80% or more chocolate, but limit to 1 oz every few days
 * Dairy
     * Dairy fits in the limit category, limit overall to 2 servings per day
