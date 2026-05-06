@@ -1,6 +1,6 @@
 # Food Protocol
 
-The following is based off of the Mediterranean 'diet', unlike other modern diets, the Mediterranean diet does not eliminate any whole food. The studies conducted on the Mediterranean region were made during the 1960s prior to our modern food ultra processed food craze.
+The following is based off of the Mediterranean 'diet', unlike other modern diets, the Mediterranean diet does not eliminate any whole food. The studies conducted on the Mediterranean region were made during the 1960s prior to our modern food ultra processed food craze. I try to refrain from terming this a 'diet' to avoid comparison with fad diets or restrictive diets.
 
  The key tenets of the Mediterranean diet include a high intake of plant-based foods such as fruits, vegetables, whole grains, nuts, and legumes, with olive oil as the primary source of fat. It also emphasizes moderate consumption of fish, poultry, dairy, and limited red meat, along with enjoying meals with family and friends.
 

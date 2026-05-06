@@ -16,7 +16,7 @@ Here is a breakdown of its functions, the risks of deficiency, and the impact of
 
 B~12~ is unique among vitamins because it contains a metal ion (cobalt) and is essential for two specific enzymatic reactions in humans.
 
-* **DNA Synthesis and Cell Division:** B~12~ is a cofactor for the synthesis of nucleic acids. It works closely with folate (Vitamin $B_9$) to create the building blocks of DNA. This is why it is most vital for rapidly dividing cells, such as those in the bone marrow (red blood cells).
+* **DNA Synthesis and Cell Division:** B~12~ is a cofactor for the synthesis of nucleic acids. It works closely with folate (Vitamin B~9~) to create the building blocks of DNA. This is why it is most vital for rapidly dividing cells, such as those in the bone marrow (red blood cells).
 * **Neurological Health (Myelin Formation):** It is required for the synthesis of **myelin**, the protective sheath that surrounds nerves. Without B~12~, nerve signaling becomes sluggish or damaged.
 * **Energy Metabolism:** It helps convert homocysteine into methionine (an amino acid) and assists in the breakdown of fatty acids and amino acids into energy.
 * **Red Blood Cell Formation:** It ensures that red blood cells develop into their proper circular shape and size.
