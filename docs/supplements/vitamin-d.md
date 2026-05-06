@@ -35,7 +35,7 @@ The assumption that you can discontinue Vitamin D in the spring/summer is **part
 
 **The Realities of 2026:**
 
-* **The "Shadow" Rule:** If your shadow is longer than you are, you aren't making Vitamin D, regardless of how bright the sun is.
+* **The Shadow Rule:** If your shadow is longer than you are, you aren't making Vitamin D, regardless of how bright the sun is.
 * **Sunscreen & Pollution:** SPF 30 reduces Vitamin D synthesis by about **95%**. In urban areas, atmospheric haze can also filter out the specific UVB rays needed for synthesis.
 * **The "Vascular" Decay:** Vitamin D levels in the blood have a half-life of about **2–3 weeks**. If you stop completely in May, your levels will likely be sub-optimal by July, even with weekend beach trips.
 
