@@ -66,7 +66,6 @@ nav = [
     "recipes/breakfast.md",
     "recipes/lunch.md",
     "recipes/dinner.md",
-    "recipes/creatine.md"
     ]},
    { "Buying Guide" = "buying_guide.md" }, 
    { "Exercise Protocol" = "exercise_protocol.md" },
